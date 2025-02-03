@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VoBaLoc-86/WebVegetStore.git/static/css/main.b30be24a.css",
+    "main.js": "/VoBaLoc-86/WebVegetStore.git/static/js/main.1961b87c.js",
+    "static/js/453.a0c2ac2a.chunk.js": "/VoBaLoc-86/WebVegetStore.git/static/js/453.a0c2ac2a.chunk.js",
+    "index.html": "/VoBaLoc-86/WebVegetStore.git/index.html",
+    "main.b30be24a.css.map": "/VoBaLoc-86/WebVegetStore.git/static/css/main.b30be24a.css.map",
+    "main.1961b87c.js.map": "/VoBaLoc-86/WebVegetStore.git/static/js/main.1961b87c.js.map",
+    "453.a0c2ac2a.chunk.js.map": "/VoBaLoc-86/WebVegetStore.git/static/js/453.a0c2ac2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30be24a.css",
+    "static/js/main.1961b87c.js"
+  ]
+}
