@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WebVegetStore/static/css/main.b30be24a.css",
-    "main.js": "/WebVegetStore/static/js/main.489c0cb4.js",
+    "main.js": "/WebVegetStore/static/js/main.0fc4aab4.js",
     "static/js/453.a0c2ac2a.chunk.js": "/WebVegetStore/static/js/453.a0c2ac2a.chunk.js",
     "index.html": "/WebVegetStore/index.html",
     "main.b30be24a.css.map": "/WebVegetStore/static/css/main.b30be24a.css.map",
-    "main.489c0cb4.js.map": "/WebVegetStore/static/js/main.489c0cb4.js.map",
+    "main.0fc4aab4.js.map": "/WebVegetStore/static/js/main.0fc4aab4.js.map",
     "453.a0c2ac2a.chunk.js.map": "/WebVegetStore/static/js/453.a0c2ac2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b30be24a.css",
-    "static/js/main.489c0cb4.js"
+    "static/js/main.0fc4aab4.js"
   ]
 }
